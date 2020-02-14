@@ -1,5 +1,5 @@
 Feature: borland registration
-@register
+@register@Test
 Scenario: launch the application click on enter gmo online button
 Given i launch the URL 
 When i verify the title of the page
